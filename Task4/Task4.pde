@@ -1,4 +1,4 @@
-/*
+
 //4.a
 for (int i = 0 ; i <= 20; i = i + 1){
  println(i);
@@ -17,7 +17,7 @@ for (int start = 3 ; start >= 0 ; start = start - 1){
   }
   
 }
-  */
+
   
 //4.d
 for (int start = 3 ; start >= 0 ; start = start - 1){
@@ -31,7 +31,7 @@ for (int start = 3 ; start >= 0 ; start = start - 1){
   break;
   
   case 1:
-  println(" one");
+  println("one");
   break;
   
   case 0:
